@@ -1,0 +1,23 @@
+enum EquipmentSlot {
+  none,
+  unequipable,
+  mainHand,
+  head,
+  chest,
+  leg,
+  feet,
+  offhand,
+  hands,
+  misc,
+  ring,
+  wrist,
+  neck,
+  hat,
+  top,
+  bottoms,
+  shoes,
+  gloves,
+  companion,
+  saddle,
+  mount
+}
